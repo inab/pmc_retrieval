@@ -1,2 +1,0 @@
-license_dict = {'open_access':'open access','cc_license':'cc license', 'cc_by_license':'cc by license', 'cc_by-nd_license':'cc by-nd license', 
-                'cc_by-nc_license':'cc by-nc license', 'cc_by-nc-nd_license':'cc by-nc-nd license', 'cc_by-nc-sa_license':'cc by-nc-sa license','cc_by-sa_license':'cc by-sa license','cc0_license':'cc0 license' }
